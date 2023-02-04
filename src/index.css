@@ -11,3 +11,14 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+button {
+  padding: 1.2rem;
+  background: yellow;
+  margin: 20px
+}
+
+.disabled {
+  background: gainsboro;
+  cursor: none;
+}
